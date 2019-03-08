@@ -1,5 +1,6 @@
 # Razor Pages
 ## Useful Information
+* [Introduction to ASP.NET Core Razor Pages](https://andrewlock.net/an-introduction-to-asp-net-core-razor-pages/)
 * [How does Razor Pages differ from MVC](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/#disqus_thread)
 * Dont need [AntiForgeryToken] attribute
 * Create a /Pages folder
